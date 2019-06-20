@@ -23,4 +23,4 @@
 
 ## 二维码
 
-- ![二维码](https://github.com/calonye/SSR-Rules/blob/master/figure/sr_list.png)
+![二维码](https://github.com/calonye/SSR-Rules/blob/master/figure/sr_list.png)
