@@ -19,7 +19,7 @@
 - 直连：正常的网站
 - 手动：手动添加被墙网站
 
-规则地址：<https://github.com/calonye/SSR-Rules/blob/master/sr_list.conf>
+规则地址：<https://raw.githubusercontent.com/calonye/SSR-Rules/master/sr_list.conf>
 
 ## 二维码
 
