@@ -19,8 +19,8 @@
 - 直连：正常的网站
 - 手动：手动添加被墙网站
 
-规则地址：<待添加>
+规则地址：<https://github.com/calonye/SSR-Rules/blob/master/sr_list.conf>
 
 ## 二维码
 
-- 待添加
+- ![二维码](https://github.com/calonye/SSR-Rules/blob/master/figure/sr_list.png)
