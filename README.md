@@ -12,6 +12,8 @@
 
 注意”全局路由“选择”配置“；
 
+原始规则参考：https://github.com/h2y/Shadowrocket-ADBlock-Rules/blob/master/readme.md
+
 ## 规则过滤
 
 - 规则中包含了需要代理才能正常访问的对象，不在名单里的则默认直连。
