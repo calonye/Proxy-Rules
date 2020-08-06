@@ -2,10 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  来访人数<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg?repo_id=calonye.SSR-Rules.issue.1" />
-</p>
 
 ## Shadowrocket Rules
 
@@ -46,5 +42,4 @@ tiktok-free原始规则参考：https://github.com/Pinanchen/TikTok-Free/blob/ma
 ![二维码](https://github.com/calonye/SSR-Rules/blob/master/figure/sr.png)
 
 
----
-页面工具来源:https://github.com/sagar-viradiya/sagar-viradiya
+
