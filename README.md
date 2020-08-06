@@ -1,3 +1,12 @@
+# 嗨~ 大家好 :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  来访人数<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 ## Shadowrocket Rules
 
 - 专门针对 ShadowRocket 开发，可以保证与 SR 的兼容性。
@@ -35,3 +44,7 @@ tiktok-free原始规则参考：https://github.com/Pinanchen/TikTok-Free/blob/ma
 ## 二维码
 
 ![二维码](https://github.com/calonye/SSR-Rules/blob/master/figure/sr.png)
+
+
+---
+页面工具来源:https://github.com/sagar-viradiya/sagar-viradiya
