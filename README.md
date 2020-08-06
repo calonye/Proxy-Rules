@@ -4,7 +4,7 @@
 
 <p align="center"> 
   来访人数<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg?repo_id=calonye.SSR-Rules.issue.1" />
 </p>
 
 ## Shadowrocket Rules
