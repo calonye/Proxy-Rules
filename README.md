@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
-## Shadowrocket Rules
+## Proxy Rules
 
-- 专门针对 ShadowRocket 开发，可以保证与 SR 的兼容性。
+- 专门针对 「ShadowRocket」 开发，可以保证与 SR 的兼容性。（能否用于其他应用场景，例如PAC之类的，请自行尝试转换）
 - 针对本人习惯使用，利用小火箭的日志功能，手动添加本人常用被墙网站，并删除用不到的被墙网站，他人请请谨慎使用
 - 国内环境专用
 
