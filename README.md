@@ -26,17 +26,17 @@
 ## 项目来源
 
 - 该项目受到以下公共 Tracker 项目的帮助，感谢~
-- > https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules
+- > 黑名单过: https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules
 
-- 原始规则参考：https://github.com/h2y/Shadowrocket-ADBlock-Rules/blob/master/readme.md
+- > 黑名单过: https://github.com/h2y/Shadowrocket-ADBlock-Rules/blob/master/readme.md
 
-- tiktok-free原始规则参考：https://github.com/Pinanchen/TikTok-Free/blob/master/README.md
-- 
-> 如果需要，您可以观看来自不同国家的视频。只是修改区域代码JP在((carrier|account|sys)_region=)CN JP 302（默认为JP装置转移到日本）。
-> - 例如
-> - 至美国： ((carrier|account|sys)_region=)CN US 302
-> - 至英国： ((carrier|account|sys)_region=)CN UK 302
-> - 至台湾省： ((carrier|account|sys)_region=)CN TW 302
+- > tiktok-free原始规则参考：https://github.com/Pinanchen/TikTok-Free/blob/master/README.md
+- -  
+- > 如果需要，您可以观看来自不同国家的视频。只是修改区域代码JP在((carrier|account|sys)_region=)CN JP 302（默认为JP装置转移到日本）。
+- > 例如
+- > 至美国： ((carrier|account|sys)_region=)CN US 302
+- > 至英国： ((carrier|account|sys)_region=)CN UK 302
+- > 至台湾省： ((carrier|account|sys)_region=)CN TW 302
 
 ## 规则过滤
 
