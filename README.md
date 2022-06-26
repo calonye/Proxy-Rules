@@ -26,6 +26,7 @@
 ## 项目来源
 
 - 该项目受到以下公共 Tracker 项目的帮助，感谢~
+- > https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules
 
 - 原始规则参考：https://github.com/h2y/Shadowrocket-ADBlock-Rules/blob/master/readme.md
 
