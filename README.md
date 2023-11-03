@@ -61,7 +61,7 @@
 
 ### 二维码
 
-待更新
+![二维码](https://github.com/calonye/SSR-Rules/blob/master/figure/bancn_ad.png)
 
 
 
