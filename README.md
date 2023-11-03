@@ -35,7 +35,7 @@
   >   > - 至英国： ((carrier|account|sys)_region=)CN UK 302
   >   > - 至台湾省： ((carrier|account|sys)_region=)CN TW 302
 
-## 规则过滤
+## 黑名单 规则过滤
 
 - 规则中包含了需要代理才能正常访问的对象，不在名单里的则默认直连。
 
@@ -45,9 +45,23 @@
 
 规则地址：<https://raw.githubusercontent.com/calonye/SSR-Rules/master/sr_list.conf>
 
-## 二维码
+### 二维码
 
 ![二维码](https://github.com/calonye/SSR-Rules/blob/master/figure/sr.png)
+
+## 回国规则 + 广告 规则过滤
+
+- 供给海外华侨使用，可以回到墙内，享受国内的一些互联网服务。
+
+- 直连：国外网站
+- 代理：中国网站
+- 包含广告过滤
+
+规则地址：<https://raw.githubusercontent.com/calonye/SSR-Rules/master/sr_backcn_ad.conf>
+
+### 二维码
+
+待更新
 
 
 
