@@ -27,7 +27,7 @@
 
 - 该项目受到以下公共 Tracker 项目的帮助，感谢~
   > - 黑名单过滤:
-  >   > - hhttps://github.com/h2y/Shadowrocket-ADBlock-Rules/blob/master/readme.md
+  >   > - https://github.com/h2y/Shadowrocket-ADBlock-Rules/blob/master/readme.md
   >   > - https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules
   > - tiktok-free 原始规则参考：https://github.com/Pinanchen/TikTok-Free/blob/master/README.md 
   >   > - 如果需要，您可以观看来自不同国家的视频。只是修改区域代码JP在((carrier|account|sys)_region=)CN JP 302（默认为JP装置转移到日本）。
